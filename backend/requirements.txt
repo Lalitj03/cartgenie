@@ -1,0 +1,24 @@
+# Core Framework
+django
+djangorestframework
+uv
+
+# AI Orchestration
+crewai
+crewai-tools
+
+# Databases
+qdrant-client
+neo4j
+
+# Sponsor Technologies
+superlinked
+cognee
+
+# Web Scraping & HTTP
+requests
+
+# Utilities
+python-dotenv
+pytest
+pytest-mock
