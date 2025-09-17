@@ -15,8 +15,15 @@ neo4j
 superlinked
 cognee
 
+# AI/ML Libraries (fallbacks for sponsor tech)
+sentence-transformers
+torch
+transformers
+
 # Web Scraping & HTTP
 requests
+beautifulsoup4
+lxml
 
 # Utilities
 python-dotenv
